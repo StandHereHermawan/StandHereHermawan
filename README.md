@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Arief Karditya Hermawan. Currently are students on information system major until 2027.
+Mainly coding as my repository list.
+
+### Thanks for visit!
+
 <!--
 **StandHereHermawan/StandHereHermawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
