@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Arief Karditya Hermawan. Currently are students on information system major until 2027.
-Mainly coding as my repository list.
+My name is Arief Karditya Hermawan. Currently are students on information system major expected until 2027.
+Mainly coding as my repository list. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda alias rerum rem esse odit architecto enim quasi minus saepe ex temporibus nesciunt, tempora aliquam laudantium qui eaque sit, amet consequatur.
 
 ### Thanks for visit!
 
